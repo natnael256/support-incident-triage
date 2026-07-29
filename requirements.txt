@@ -1,0 +1,9 @@
+command-not-found==0.3
+dbus-python==1.2.18
+distro-info==1.1+ubuntu0.2
+netifaces==0.11.0
+PyGObject==3.42.1
+python-apt==2.4.0+ubuntu4.1
+PyYAML==5.4.1
+ubuntu-pro-client==8001
+ufw==0.36.1
