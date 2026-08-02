@@ -1,0 +1,5002 @@
+[
+  {
+    "external_id": "ATC-10298",
+    "source": "synthetic",
+    "created_at": "2026-05-04T08:13:07.992848Z",
+    "title": "Feature request for checkout",
+    "body": "Customer would like to request a wishlist feature on checkout. Not urgent, just a suggestion.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10103",
+    "source": "synthetic",
+    "created_at": "2026-05-04T08:19:34.990844Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10468",
+    "source": "synthetic",
+    "created_at": "2026-05-04T08:55:33.993904Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10198",
+    "source": "synthetic",
+    "created_at": "2026-05-04T11:32:12.992164Z",
+    "title": "shipping slow to load",
+    "body": "shipping takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10276",
+    "source": "synthetic",
+    "created_at": "2026-05-04T12:56:08.992714Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on checkout. Cosmetic only, account still works fine.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10052",
+    "source": "synthetic",
+    "created_at": "2026-05-04T16:42:31.989967Z",
+    "title": "Typo on mobile-app page",
+    "body": "Minor display issue: typo on the mobile-app product description page. Says 'recieve' instead of 'receive'.",
+    "service": "mobile-app",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10440",
+    "source": "synthetic",
+    "created_at": "2026-05-05T08:30:24.993683Z",
+    "title": "Typo on inventory page",
+    "body": "Minor display issue: typo on the inventory product description page. Says 'recieve' instead of 'receive'.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10434",
+    "source": "synthetic",
+    "created_at": "2026-05-05T09:27:24.993645Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on bike-builder. Cosmetic only, account still works fine.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10356",
+    "source": "synthetic",
+    "created_at": "2026-05-05T14:21:12.993188Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on account. Cosmetic only, account still works fine.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10018",
+    "source": "synthetic",
+    "created_at": "2026-05-05T14:58:26.989751Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on bike-builder. Cosmetic only, account still works fine.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10278",
+    "source": "synthetic",
+    "created_at": "2026-05-05T17:58:22.992726Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10205",
+    "source": "synthetic",
+    "created_at": "2026-05-05T22:53:09.992216Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10338",
+    "source": "synthetic",
+    "created_at": "2026-05-06T08:54:17.993083Z",
+    "title": "Typo on tour-booking page",
+    "body": "Minor display issue: typo on the tour-booking product description page. Says 'recieve' instead of 'receive'.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10161",
+    "source": "synthetic",
+    "created_at": "2026-05-06T09:53:37.991775Z",
+    "title": "shipping slow to load",
+    "body": "shipping takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10467",
+    "source": "synthetic",
+    "created_at": "2026-05-06T10:09:21.993897Z",
+    "title": "Images not displaying on checkout",
+    "body": "Product images not displaying correctly on checkout. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10366",
+    "source": "synthetic",
+    "created_at": "2026-05-06T10:23:03.993244Z",
+    "title": "Images not displaying on bike-builder",
+    "body": "Product images not displaying correctly on bike-builder. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10087",
+    "source": "synthetic",
+    "created_at": "2026-05-06T14:08:37.990621Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10403",
+    "source": "synthetic",
+    "created_at": "2026-05-06T15:37:18.993454Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on bike-builder. Cosmetic only, account still works fine.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10373",
+    "source": "synthetic",
+    "created_at": "2026-05-06T16:59:51.993285Z",
+    "title": "Typo on inventory page",
+    "body": "Minor display issue: typo on the inventory product description page. Says 'recieve' instead of 'receive'.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10473",
+    "source": "synthetic",
+    "created_at": "2026-05-07T08:16:29.993937Z",
+    "title": "Feature request for bike-builder",
+    "body": "Customer would like to request a wishlist feature on bike-builder. Not urgent, just a suggestion.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10442",
+    "source": "synthetic",
+    "created_at": "2026-05-07T09:59:39.993716Z",
+    "title": "Typo on inventory page",
+    "body": "Minor display issue: typo on the inventory product description page. Says 'recieve' instead of 'receive'.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10154",
+    "source": "synthetic",
+    "created_at": "2026-05-07T11:39:09.991696Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10484",
+    "source": "synthetic",
+    "created_at": "2026-05-07T12:07:12.994050Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10290",
+    "source": "synthetic",
+    "created_at": "2026-05-07T13:55:50.992801Z",
+    "title": "Images not displaying on bike-builder",
+    "body": "Product images not displaying correctly on bike-builder. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10252",
+    "source": "synthetic",
+    "created_at": "2026-05-07T16:20:41.992569Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10021",
+    "source": "synthetic",
+    "created_at": "2026-05-07T17:58:21.989772Z",
+    "title": "Images not displaying on tour-booking",
+    "body": "Product images not displaying correctly on tour-booking. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10101",
+    "source": "synthetic",
+    "created_at": "2026-05-07T19:10:37.990816Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10288",
+    "source": "synthetic",
+    "created_at": "2026-05-07T20:29:36.992789Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on mobile-app. Cosmetic only, account still works fine.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10125",
+    "source": "synthetic",
+    "created_at": "2026-05-07T20:39:05.991323Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10471",
+    "source": "synthetic",
+    "created_at": "2026-05-08T10:35:46.993925Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10255",
+    "source": "synthetic",
+    "created_at": "2026-05-08T10:42:15.992587Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10367",
+    "source": "synthetic",
+    "created_at": "2026-05-08T11:35:12.993249Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on bike-builder. Cosmetic only, account still works fine.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10004",
+    "source": "synthetic",
+    "created_at": "2026-05-08T11:50:02.989652Z",
+    "title": "inventory slow to load",
+    "body": "inventory takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10007",
+    "source": "synthetic",
+    "created_at": "2026-05-08T12:47:09.989675Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10123",
+    "source": "synthetic",
+    "created_at": "2026-05-08T13:49:22.991294Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on checkout. Cosmetic only, account still works fine.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10134",
+    "source": "synthetic",
+    "created_at": "2026-05-08T14:09:06.991452Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10003",
+    "source": "synthetic",
+    "created_at": "2026-05-08T16:15:17.989642Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10267",
+    "source": "synthetic",
+    "created_at": "2026-05-08T17:52:15.992660Z",
+    "title": "Feature request for inventory",
+    "body": "Customer would like to request a wishlist feature on inventory. Not urgent, just a suggestion.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10349",
+    "source": "synthetic",
+    "created_at": "2026-05-08T23:38:41.993146Z",
+    "title": "Images not displaying on tour-booking",
+    "body": "Product images not displaying correctly on tour-booking. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10266",
+    "source": "synthetic",
+    "created_at": "2026-05-09T08:26:23.992654Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on mobile-app. Cosmetic only, account still works fine.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10409",
+    "source": "synthetic",
+    "created_at": "2026-05-09T09:25:56.993493Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on account. Cosmetic only, account still works fine.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10303",
+    "source": "synthetic",
+    "created_at": "2026-05-09T10:22:59.992878Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10429",
+    "source": "synthetic",
+    "created_at": "2026-05-09T10:50:42.993613Z",
+    "title": "account is crashing for some users",
+    "body": "The account tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10144",
+    "source": "synthetic",
+    "created_at": "2026-05-09T11:26:22.991575Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on shipping. Cosmetic only, account still works fine.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10493",
+    "source": "synthetic",
+    "created_at": "2026-05-09T11:47:33.994108Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10372",
+    "source": "synthetic",
+    "created_at": "2026-05-09T12:14:24.993279Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10179",
+    "source": "synthetic",
+    "created_at": "2026-05-09T15:31:28.991972Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10082",
+    "source": "synthetic",
+    "created_at": "2026-05-09T16:23:07.990534Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on tour-booking. Cosmetic only, account still works fine.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10037",
+    "source": "synthetic",
+    "created_at": "2026-05-09T21:08:31.989875Z",
+    "title": "Images not displaying on account",
+    "body": "Product images not displaying correctly on account. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10279",
+    "source": "synthetic",
+    "created_at": "2026-05-10T10:10:29.992732Z",
+    "title": "Feature request for inventory",
+    "body": "Customer would like to request a wishlist feature on inventory. Not urgent, just a suggestion.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10171",
+    "source": "synthetic",
+    "created_at": "2026-05-10T12:37:03.991881Z",
+    "title": "Feature request for tour-booking",
+    "body": "Customer would like to request a wishlist feature on tour-booking. Not urgent, just a suggestion.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10218",
+    "source": "synthetic",
+    "created_at": "2026-05-11T09:07:56.992320Z",
+    "title": "Payment processor down, can't process payments",
+    "body": "Our payment processor is down. Checkout is throwing a 500 error on checkout for every attempt. Unable to place any orders since this started.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10282",
+    "source": "synthetic",
+    "created_at": "2026-05-11T16:37:27.992748Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10193",
+    "source": "synthetic",
+    "created_at": "2026-05-11T19:35:48.992133Z",
+    "title": "inventory is crashing for some users",
+    "body": "The inventory tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10462",
+    "source": "synthetic",
+    "created_at": "2026-05-11T23:02:48.993864Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on mobile-app. Cosmetic only, account still works fine.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10049",
+    "source": "synthetic",
+    "created_at": "2026-05-12T10:56:58.989949Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10315",
+    "source": "synthetic",
+    "created_at": "2026-05-12T15:46:49.992948Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10444",
+    "source": "synthetic",
+    "created_at": "2026-05-12T17:59:02.993730Z",
+    "title": "bike-builder slow to load",
+    "body": "bike-builder takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10421",
+    "source": "synthetic",
+    "created_at": "2026-05-12T18:51:39.993566Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10072",
+    "source": "synthetic",
+    "created_at": "2026-05-13T02:17:19.990365Z",
+    "title": "bike-builder is down, customers can't check out",
+    "body": "Multiple customers reporting bike-builder is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10272",
+    "source": "synthetic",
+    "created_at": "2026-05-13T12:55:07.992690Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10269",
+    "source": "synthetic",
+    "created_at": "2026-05-13T15:12:03.992673Z",
+    "title": "Images not displaying on bike-builder",
+    "body": "Product images not displaying correctly on bike-builder. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10078",
+    "source": "synthetic",
+    "created_at": "2026-05-13T18:06:18.990474Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10156",
+    "source": "synthetic",
+    "created_at": "2026-05-13T18:49:01.991718Z",
+    "title": "bike-builder slow to load",
+    "body": "bike-builder takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10414",
+    "source": "synthetic",
+    "created_at": "2026-05-13T21:08:17.993525Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10141",
+    "source": "synthetic",
+    "created_at": "2026-05-13T22:21:15.991535Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10190",
+    "source": "synthetic",
+    "created_at": "2026-05-14T03:06:20.992112Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10000",
+    "source": "synthetic",
+    "created_at": "2026-05-14T06:20:59.989579Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10339",
+    "source": "synthetic",
+    "created_at": "2026-05-14T08:15:32.993088Z",
+    "title": "Images not displaying on shipping",
+    "body": "Product images not displaying correctly on shipping. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10065",
+    "source": "synthetic",
+    "created_at": "2026-05-14T10:10:35.990049Z",
+    "title": "tour-booking is crashing for some users",
+    "body": "The tour-booking tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10229",
+    "source": "synthetic",
+    "created_at": "2026-05-14T15:53:58.992399Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10174",
+    "source": "synthetic",
+    "created_at": "2026-05-15T09:02:40.991918Z",
+    "title": "Typo on bike-builder page",
+    "body": "Minor display issue: typo on the bike-builder product description page. Says 'recieve' instead of 'receive'.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10424",
+    "source": "synthetic",
+    "created_at": "2026-05-15T09:02:40.993583Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10360",
+    "source": "synthetic",
+    "created_at": "2026-05-15T11:33:28.993211Z",
+    "title": "Images not displaying on checkout",
+    "body": "Product images not displaying correctly on checkout. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10145",
+    "source": "synthetic",
+    "created_at": "2026-05-15T12:16:38.991589Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10352",
+    "source": "synthetic",
+    "created_at": "2026-05-15T13:30:02.993164Z",
+    "title": "inventory slow to load",
+    "body": "inventory takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10094",
+    "source": "synthetic",
+    "created_at": "2026-05-15T17:50:49.990718Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10381",
+    "source": "synthetic",
+    "created_at": "2026-05-15T20:55:50.993331Z",
+    "title": "Feature request for mobile-app",
+    "body": "Customer would like to request a wishlist feature on mobile-app. Not urgent, just a suggestion.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10019",
+    "source": "synthetic",
+    "created_at": "2026-05-15T21:49:01.989758Z",
+    "title": "Images not displaying on shipping",
+    "body": "Product images not displaying correctly on shipping. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10325",
+    "source": "synthetic",
+    "created_at": "2026-05-15T23:52:50.993006Z",
+    "title": "Feature request for bike-builder",
+    "body": "Customer would like to request a wishlist feature on bike-builder. Not urgent, just a suggestion.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10453",
+    "source": "synthetic",
+    "created_at": "2026-05-16T18:16:18.993810Z",
+    "title": "Typo on shipping page",
+    "body": "Minor display issue: typo on the shipping product description page. Says 'recieve' instead of 'receive'.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10280",
+    "source": "synthetic",
+    "created_at": "2026-05-17T10:03:02.992737Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10275",
+    "source": "synthetic",
+    "created_at": "2026-05-17T23:54:35.992708Z",
+    "title": "Feature request for tour-booking",
+    "body": "Customer would like to request a wishlist feature on tour-booking. Not urgent, just a suggestion.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10163",
+    "source": "synthetic",
+    "created_at": "2026-05-18T05:46:50.991798Z",
+    "title": "Typo on account page",
+    "body": "Minor display issue: typo on the account product description page. Says 'recieve' instead of 'receive'.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10294",
+    "source": "synthetic",
+    "created_at": "2026-05-18T09:35:56.992826Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10011",
+    "source": "synthetic",
+    "created_at": "2026-05-18T09:42:14.989707Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10217",
+    "source": "synthetic",
+    "created_at": "2026-05-18T12:12:36.992312Z",
+    "title": "Images not displaying on tour-booking",
+    "body": "Product images not displaying correctly on tour-booking. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10264",
+    "source": "synthetic",
+    "created_at": "2026-05-18T12:22:12.992641Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10187",
+    "source": "synthetic",
+    "created_at": "2026-05-18T16:28:45.992096Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on bike-builder. Cosmetic only, account still works fine.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10071",
+    "source": "synthetic",
+    "created_at": "2026-05-19T07:43:28.990339Z",
+    "title": "Images not displaying on shipping",
+    "body": "Product images not displaying correctly on shipping. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10216",
+    "source": "synthetic",
+    "created_at": "2026-05-19T16:08:15.992304Z",
+    "title": "bike-builder slow to load",
+    "body": "bike-builder takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10192",
+    "source": "synthetic",
+    "created_at": "2026-05-20T05:04:17.992123Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10160",
+    "source": "synthetic",
+    "created_at": "2026-05-20T11:53:02.991764Z",
+    "title": "inventory is down, customers can't check out",
+    "body": "Multiple customers reporting inventory is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10097",
+    "source": "synthetic",
+    "created_at": "2026-05-20T12:12:51.990759Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10081",
+    "source": "synthetic",
+    "created_at": "2026-05-20T16:30:27.990520Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10142",
+    "source": "synthetic",
+    "created_at": "2026-05-20T17:19:47.991546Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10001",
+    "source": "synthetic",
+    "created_at": "2026-05-21T04:54:28.989619Z",
+    "title": "mobile-app slow to load",
+    "body": "mobile-app takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "mobile-app",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10136",
+    "source": "synthetic",
+    "created_at": "2026-05-21T10:10:15.991476Z",
+    "title": "Typo on tour-booking page",
+    "body": "Minor display issue: typo on the tour-booking product description page. Says 'recieve' instead of 'receive'.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10194",
+    "source": "synthetic",
+    "created_at": "2026-05-21T11:57:36.992138Z",
+    "title": "Feature request for checkout",
+    "body": "Customer would like to request a wishlist feature on checkout. Not urgent, just a suggestion.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10069",
+    "source": "synthetic",
+    "created_at": "2026-05-21T12:47:44.990072Z",
+    "title": "Images not displaying on mobile-app",
+    "body": "Product images not displaying correctly on mobile-app. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10017",
+    "source": "synthetic",
+    "created_at": "2026-05-21T14:38:16.989745Z",
+    "title": "Typo on tour-booking page",
+    "body": "Minor display issue: typo on the tour-booking product description page. Says 'recieve' instead of 'receive'.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10147",
+    "source": "synthetic",
+    "created_at": "2026-05-21T17:05:19.991617Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10283",
+    "source": "synthetic",
+    "created_at": "2026-05-21T17:09:56.992758Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10364",
+    "source": "synthetic",
+    "created_at": "2026-05-22T01:13:30.993233Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10149",
+    "source": "synthetic",
+    "created_at": "2026-05-22T02:24:59.991638Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on tour-booking. Cosmetic only, account still works fine.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10494",
+    "source": "synthetic",
+    "created_at": "2026-05-22T03:03:36.994115Z",
+    "title": "Images not displaying on checkout",
+    "body": "Product images not displaying correctly on checkout. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10482",
+    "source": "synthetic",
+    "created_at": "2026-05-22T08:24:26.994039Z",
+    "title": "Feature request for inventory",
+    "body": "Customer would like to request a wishlist feature on inventory. Not urgent, just a suggestion.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10321",
+    "source": "synthetic",
+    "created_at": "2026-05-22T09:06:24.992982Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10206",
+    "source": "synthetic",
+    "created_at": "2026-05-22T09:47:31.992223Z",
+    "title": "Images not displaying on tour-booking",
+    "body": "Product images not displaying correctly on tour-booking. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10413",
+    "source": "synthetic",
+    "created_at": "2026-05-22T13:29:59.993519Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10460",
+    "source": "synthetic",
+    "created_at": "2026-05-22T14:00:38.993852Z",
+    "title": "Images not displaying on shipping",
+    "body": "Product images not displaying correctly on shipping. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10389",
+    "source": "synthetic",
+    "created_at": "2026-05-22T14:31:25.993376Z",
+    "title": "Feature request for inventory",
+    "body": "Customer would like to request a wishlist feature on inventory. Not urgent, just a suggestion.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10148",
+    "source": "synthetic",
+    "created_at": "2026-05-22T16:45:27.991628Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10238",
+    "source": "synthetic",
+    "created_at": "2026-05-22T17:28:44.992465Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10203",
+    "source": "synthetic",
+    "created_at": "2026-05-23T14:55:41.992200Z",
+    "title": "Images not displaying on tour-booking",
+    "body": "Product images not displaying correctly on tour-booking. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10173",
+    "source": "synthetic",
+    "created_at": "2026-05-23T23:00:47.991905Z",
+    "title": "Images not displaying on account",
+    "body": "Product images not displaying correctly on account. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10180",
+    "source": "synthetic",
+    "created_at": "2026-05-24T00:58:57.992012Z",
+    "title": "checkout is crashing for some users",
+    "body": "The checkout tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10050",
+    "source": "synthetic",
+    "created_at": "2026-05-24T10:06:56.989955Z",
+    "title": "bike-builder slow to load",
+    "body": "bike-builder takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10121",
+    "source": "synthetic",
+    "created_at": "2026-05-24T13:39:43.991263Z",
+    "title": "Feature request for tour-booking",
+    "body": "Customer would like to request a wishlist feature on tour-booking. Not urgent, just a suggestion.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10106",
+    "source": "synthetic",
+    "created_at": "2026-05-24T14:56:09.990884Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10399",
+    "source": "synthetic",
+    "created_at": "2026-05-24T15:32:14.993432Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10143",
+    "source": "synthetic",
+    "created_at": "2026-05-25T07:14:59.991559Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on account. Cosmetic only, account still works fine.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10119",
+    "source": "synthetic",
+    "created_at": "2026-05-25T12:21:52.991233Z",
+    "title": "Typo on tour-booking page",
+    "body": "Minor display issue: typo on the tour-booking product description page. Says 'recieve' instead of 'receive'.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10047",
+    "source": "synthetic",
+    "created_at": "2026-05-25T13:12:04.989937Z",
+    "title": "checkout is down, customers can't check out",
+    "body": "Multiple customers reporting checkout is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10079",
+    "source": "synthetic",
+    "created_at": "2026-05-25T14:25:44.990488Z",
+    "title": "Typo on bike-builder page",
+    "body": "Minor display issue: typo on the bike-builder product description page. Says 'recieve' instead of 'receive'.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10112",
+    "source": "synthetic",
+    "created_at": "2026-05-25T16:40:29.990982Z",
+    "title": "bike-builder slow to load",
+    "body": "bike-builder takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10361",
+    "source": "synthetic",
+    "created_at": "2026-05-25T22:52:56.993216Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on mobile-app. Cosmetic only, account still works fine.",
+    "service": "mobile-app",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10083",
+    "source": "synthetic",
+    "created_at": "2026-05-25T22:56:22.990554Z",
+    "title": "Typo on bike-builder page",
+    "body": "Minor display issue: typo on the bike-builder product description page. Says 'recieve' instead of 'receive'.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10096",
+    "source": "synthetic",
+    "created_at": "2026-05-26T09:25:58.990746Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10016",
+    "source": "synthetic",
+    "created_at": "2026-05-26T09:27:03.989739Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10137",
+    "source": "synthetic",
+    "created_at": "2026-05-26T13:02:38.991485Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10220",
+    "source": "synthetic",
+    "created_at": "2026-05-26T14:46:01.992337Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10369",
+    "source": "synthetic",
+    "created_at": "2026-05-26T16:36:19.993260Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10496",
+    "source": "synthetic",
+    "created_at": "2026-05-26T17:37:44.994130Z",
+    "title": "Feature request for tour-booking",
+    "body": "Customer would like to request a wishlist feature on tour-booking. Not urgent, just a suggestion.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10407",
+    "source": "synthetic",
+    "created_at": "2026-05-26T17:46:46.993480Z",
+    "title": "Typo on inventory page",
+    "body": "Minor display issue: typo on the inventory product description page. Says 'recieve' instead of 'receive'.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10250",
+    "source": "synthetic",
+    "created_at": "2026-05-26T19:10:32.992556Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10102",
+    "source": "synthetic",
+    "created_at": "2026-05-27T11:58:46.990830Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10214",
+    "source": "synthetic",
+    "created_at": "2026-05-27T12:13:01.992286Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10246",
+    "source": "synthetic",
+    "created_at": "2026-05-27T13:39:59.992524Z",
+    "title": "Images not displaying on account",
+    "body": "Product images not displaying correctly on account. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10456",
+    "source": "synthetic",
+    "created_at": "2026-05-27T18:26:31.993828Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10257",
+    "source": "synthetic",
+    "created_at": "2026-05-28T02:28:40.992600Z",
+    "title": "Typo on mobile-app page",
+    "body": "Minor display issue: typo on the mobile-app product description page. Says 'recieve' instead of 'receive'.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10164",
+    "source": "synthetic",
+    "created_at": "2026-05-28T05:29:08.991808Z",
+    "title": "Typo on mobile-app page",
+    "body": "Minor display issue: typo on the mobile-app product description page. Says 'recieve' instead of 'receive'.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10133",
+    "source": "synthetic",
+    "created_at": "2026-05-28T08:56:01.991438Z",
+    "title": "Images not displaying on tour-booking",
+    "body": "Product images not displaying correctly on tour-booking. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10129",
+    "source": "synthetic",
+    "created_at": "2026-05-28T11:33:43.991379Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10489",
+    "source": "synthetic",
+    "created_at": "2026-05-28T15:48:27.994084Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10304",
+    "source": "synthetic",
+    "created_at": "2026-05-28T16:07:39.992885Z",
+    "title": "Images not displaying on bike-builder",
+    "body": "Product images not displaying correctly on bike-builder. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10400",
+    "source": "synthetic",
+    "created_at": "2026-05-29T09:43:41.993438Z",
+    "title": "shipping slow to load",
+    "body": "shipping takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10030",
+    "source": "synthetic",
+    "created_at": "2026-05-29T16:38:46.989831Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10384",
+    "source": "synthetic",
+    "created_at": "2026-05-29T17:28:08.993348Z",
+    "title": "Images not displaying on account",
+    "body": "Product images not displaying correctly on account. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10135",
+    "source": "synthetic",
+    "created_at": "2026-05-29T20:31:49.991464Z",
+    "title": "shipping is down, customers can't check out",
+    "body": "Multiple customers reporting shipping is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10234",
+    "source": "synthetic",
+    "created_at": "2026-05-30T20:26:02.992435Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10100",
+    "source": "synthetic",
+    "created_at": "2026-05-30T21:59:19.990803Z",
+    "title": "Images not displaying on tour-booking",
+    "body": "Product images not displaying correctly on tour-booking. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10091",
+    "source": "synthetic",
+    "created_at": "2026-05-31T07:19:28.990676Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on mobile-app. Cosmetic only, account still works fine.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10291",
+    "source": "synthetic",
+    "created_at": "2026-05-31T12:55:00.992806Z",
+    "title": "Images not displaying on account",
+    "body": "Product images not displaying correctly on account. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10208",
+    "source": "synthetic",
+    "created_at": "2026-06-01T01:37:16.992237Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10422",
+    "source": "synthetic",
+    "created_at": "2026-06-01T11:40:12.993572Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on shipping. Cosmetic only, account still works fine.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10405",
+    "source": "synthetic",
+    "created_at": "2026-06-02T08:31:32.993467Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on tour-booking. Cosmetic only, account still works fine.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10418",
+    "source": "synthetic",
+    "created_at": "2026-06-02T10:02:21.993548Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on tour-booking. Cosmetic only, account still works fine.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10308",
+    "source": "synthetic",
+    "created_at": "2026-06-02T15:37:21.992908Z",
+    "title": "shipping is crashing for some users",
+    "body": "The shipping tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10155",
+    "source": "synthetic",
+    "created_at": "2026-06-02T15:57:31.991708Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on tour-booking. Cosmetic only, account still works fine.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10379",
+    "source": "synthetic",
+    "created_at": "2026-06-03T01:55:14.993320Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10086",
+    "source": "synthetic",
+    "created_at": "2026-06-03T08:04:33.990606Z",
+    "title": "Typo on checkout page",
+    "body": "Minor display issue: typo on the checkout product description page. Says 'recieve' instead of 'receive'.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10274",
+    "source": "synthetic",
+    "created_at": "2026-06-03T09:03:53.992701Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10088",
+    "source": "synthetic",
+    "created_at": "2026-06-03T09:16:45.990634Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10039",
+    "source": "synthetic",
+    "created_at": "2026-06-03T10:30:24.989887Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on shipping. Cosmetic only, account still works fine.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10378",
+    "source": "synthetic",
+    "created_at": "2026-06-03T10:46:58.993314Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10159",
+    "source": "synthetic",
+    "created_at": "2026-06-03T13:40:18.991753Z",
+    "title": "Images not displaying on tour-booking",
+    "body": "Product images not displaying correctly on tour-booking. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10448",
+    "source": "synthetic",
+    "created_at": "2026-06-03T16:08:46.993762Z",
+    "title": "Images not displaying on inventory",
+    "body": "Product images not displaying correctly on inventory. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10353",
+    "source": "synthetic",
+    "created_at": "2026-06-03T16:57:30.993171Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10043",
+    "source": "synthetic",
+    "created_at": "2026-06-03T17:04:28.989913Z",
+    "title": "Images not displaying on inventory",
+    "body": "Product images not displaying correctly on inventory. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10191",
+    "source": "synthetic",
+    "created_at": "2026-06-04T00:05:07.992117Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10235",
+    "source": "synthetic",
+    "created_at": "2026-06-04T03:48:08.992443Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10416",
+    "source": "synthetic",
+    "created_at": "2026-06-04T06:04:51.993537Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on tour-booking. Cosmetic only, account still works fine.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10490",
+    "source": "synthetic",
+    "created_at": "2026-06-04T09:04:36.994090Z",
+    "title": "Payment processor down, can't process payments",
+    "body": "Our payment processor is down. Checkout is throwing a 500 error on checkout for every attempt. Unable to place any orders since this started.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10461",
+    "source": "synthetic",
+    "created_at": "2026-06-04T10:31:54.993858Z",
+    "title": "Images not displaying on inventory",
+    "body": "Product images not displaying correctly on inventory. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10032",
+    "source": "synthetic",
+    "created_at": "2026-06-04T13:32:02.989844Z",
+    "title": "Images not displaying on account",
+    "body": "Product images not displaying correctly on account. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10390",
+    "source": "synthetic",
+    "created_at": "2026-06-04T14:14:34.993381Z",
+    "title": "Feature request for tour-booking",
+    "body": "Customer would like to request a wishlist feature on tour-booking. Not urgent, just a suggestion.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10099",
+    "source": "synthetic",
+    "created_at": "2026-06-04T19:13:48.990789Z",
+    "title": "Feature request for tour-booking",
+    "body": "Customer would like to request a wishlist feature on tour-booking. Not urgent, just a suggestion.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10109",
+    "source": "synthetic",
+    "created_at": "2026-06-05T00:29:56.990926Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10215",
+    "source": "synthetic",
+    "created_at": "2026-06-05T00:39:57.992294Z",
+    "title": "Images not displaying on checkout",
+    "body": "Product images not displaying correctly on checkout. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10204",
+    "source": "synthetic",
+    "created_at": "2026-06-05T01:57:50.992208Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on tour-booking. Cosmetic only, account still works fine.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10479",
+    "source": "synthetic",
+    "created_at": "2026-06-05T03:36:50.993973Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10450",
+    "source": "synthetic",
+    "created_at": "2026-06-05T13:29:36.993783Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10170",
+    "source": "synthetic",
+    "created_at": "2026-06-05T21:37:41.991870Z",
+    "title": "Feature request for bike-builder",
+    "body": "Customer would like to request a wishlist feature on bike-builder. Not urgent, just a suggestion.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10452",
+    "source": "synthetic",
+    "created_at": "2026-06-06T10:41:20.993801Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on checkout. Cosmetic only, account still works fine.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10025",
+    "source": "synthetic",
+    "created_at": "2026-06-06T12:04:37.989799Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on bike-builder. Cosmetic only, account still works fine.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10497",
+    "source": "synthetic",
+    "created_at": "2026-06-06T16:09:25.994136Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10013",
+    "source": "synthetic",
+    "created_at": "2026-06-07T12:00:40.989720Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10289",
+    "source": "synthetic",
+    "created_at": "2026-06-07T16:51:01.992795Z",
+    "title": "inventory is crashing for some users",
+    "body": "The inventory tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10182",
+    "source": "synthetic",
+    "created_at": "2026-06-08T04:22:36.992052Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on checkout. Cosmetic only, account still works fine.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10245",
+    "source": "synthetic",
+    "created_at": "2026-06-08T10:29:42.992517Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10439",
+    "source": "synthetic",
+    "created_at": "2026-06-08T12:39:28.993677Z",
+    "title": "bike-builder slow to load",
+    "body": "bike-builder takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10322",
+    "source": "synthetic",
+    "created_at": "2026-06-08T15:26:51.992988Z",
+    "title": "mobile-app is crashing for some users",
+    "body": "The mobile-app tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "mobile-app",
+    "status": "open",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10227",
+    "source": "synthetic",
+    "created_at": "2026-06-08T23:52:23.992383Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10116",
+    "source": "synthetic",
+    "created_at": "2026-06-09T01:53:17.991177Z",
+    "title": "Typo on bike-builder page",
+    "body": "Minor display issue: typo on the bike-builder product description page. Says 'recieve' instead of 'receive'.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10362",
+    "source": "synthetic",
+    "created_at": "2026-06-09T07:11:46.993222Z",
+    "title": "Images not displaying on mobile-app",
+    "body": "Product images not displaying correctly on mobile-app. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10027",
+    "source": "synthetic",
+    "created_at": "2026-06-09T08:09:02.989812Z",
+    "title": "Images not displaying on bike-builder",
+    "body": "Product images not displaying correctly on bike-builder. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10120",
+    "source": "synthetic",
+    "created_at": "2026-06-09T15:23:08.991248Z",
+    "title": "inventory slow to load",
+    "body": "inventory takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10153",
+    "source": "synthetic",
+    "created_at": "2026-06-09T16:19:29.991685Z",
+    "title": "Images not displaying on shipping",
+    "body": "Product images not displaying correctly on shipping. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10199",
+    "source": "synthetic",
+    "created_at": "2026-06-09T17:07:40.992170Z",
+    "title": "Typo on inventory page",
+    "body": "Minor display issue: typo on the inventory product description page. Says 'recieve' instead of 'receive'.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10263",
+    "source": "synthetic",
+    "created_at": "2026-06-09T17:21:07.992636Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10009",
+    "source": "synthetic",
+    "created_at": "2026-06-10T04:39:03.989693Z",
+    "title": "Typo on tour-booking page",
+    "body": "Minor display issue: typo on the tour-booking product description page. Says 'recieve' instead of 'receive'.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10412",
+    "source": "synthetic",
+    "created_at": "2026-06-10T05:06:04.993513Z",
+    "title": "Typo on tour-booking page",
+    "body": "Minor display issue: typo on the tour-booking product description page. Says 'recieve' instead of 'receive'.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10271",
+    "source": "synthetic",
+    "created_at": "2026-06-10T10:35:51.992684Z",
+    "title": "Feature request for bike-builder",
+    "body": "Customer would like to request a wishlist feature on bike-builder. Not urgent, just a suggestion.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10365",
+    "source": "synthetic",
+    "created_at": "2026-06-10T12:55:55.993238Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10092",
+    "source": "synthetic",
+    "created_at": "2026-06-10T23:21:07.990690Z",
+    "title": "mobile-app slow to load",
+    "body": "mobile-app takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "mobile-app",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10034",
+    "source": "synthetic",
+    "created_at": "2026-06-10T23:56:38.989855Z",
+    "title": "mobile-app slow to load",
+    "body": "mobile-app takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10114",
+    "source": "synthetic",
+    "created_at": "2026-06-11T06:15:33.991052Z",
+    "title": "Typo on shipping page",
+    "body": "Minor display issue: typo on the shipping product description page. Says 'recieve' instead of 'receive'.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10036",
+    "source": "synthetic",
+    "created_at": "2026-06-11T09:02:16.989869Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10236",
+    "source": "synthetic",
+    "created_at": "2026-06-11T14:07:37.992451Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10178",
+    "source": "synthetic",
+    "created_at": "2026-06-12T02:47:21.991962Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10292",
+    "source": "synthetic",
+    "created_at": "2026-06-12T08:34:02.992812Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10483",
+    "source": "synthetic",
+    "created_at": "2026-06-12T09:15:35.994045Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10368",
+    "source": "synthetic",
+    "created_at": "2026-06-12T12:17:37.993255Z",
+    "title": "tour-booking is crashing for some users",
+    "body": "The tour-booking tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10499",
+    "source": "synthetic",
+    "created_at": "2026-06-12T22:14:09.994149Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10256",
+    "source": "synthetic",
+    "created_at": "2026-06-13T06:07:56.992593Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10115",
+    "source": "synthetic",
+    "created_at": "2026-06-13T08:20:10.991147Z",
+    "title": "Feature request for inventory",
+    "body": "Customer would like to request a wishlist feature on inventory. Not urgent, just a suggestion.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10062",
+    "source": "synthetic",
+    "created_at": "2026-06-13T11:01:36.990031Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10391",
+    "source": "synthetic",
+    "created_at": "2026-06-13T14:53:52.993387Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10232",
+    "source": "synthetic",
+    "created_at": "2026-06-13T18:49:53.992421Z",
+    "title": "Images not displaying on checkout",
+    "body": "Product images not displaying correctly on checkout. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10219",
+    "source": "synthetic",
+    "created_at": "2026-06-13T20:52:03.992329Z",
+    "title": "bike-builder is down, customers can't check out",
+    "body": "Multiple customers reporting bike-builder is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10430",
+    "source": "synthetic",
+    "created_at": "2026-06-14T15:40:12.993619Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10015",
+    "source": "synthetic",
+    "created_at": "2026-06-14T16:11:33.989733Z",
+    "title": "Images not displaying on mobile-app",
+    "body": "Product images not displaying correctly on mobile-app. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10031",
+    "source": "synthetic",
+    "created_at": "2026-06-15T00:57:46.989837Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10248",
+    "source": "synthetic",
+    "created_at": "2026-06-15T08:26:34.992541Z",
+    "title": "mobile-app slow to load",
+    "body": "mobile-app takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10359",
+    "source": "synthetic",
+    "created_at": "2026-06-15T12:23:46.993205Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on bike-builder. Cosmetic only, account still works fine.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10131",
+    "source": "synthetic",
+    "created_at": "2026-06-16T08:54:06.991408Z",
+    "title": "mobile-app slow to load",
+    "body": "mobile-app takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10335",
+    "source": "synthetic",
+    "created_at": "2026-06-16T09:00:41.993065Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10425",
+    "source": "synthetic",
+    "created_at": "2026-06-16T10:00:18.993590Z",
+    "title": "Images not displaying on checkout",
+    "body": "Product images not displaying correctly on checkout. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10334",
+    "source": "synthetic",
+    "created_at": "2026-06-16T10:03:52.993059Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10330",
+    "source": "synthetic",
+    "created_at": "2026-06-16T11:05:13.993034Z",
+    "title": "Images not displaying on mobile-app",
+    "body": "Product images not displaying correctly on mobile-app. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10470",
+    "source": "synthetic",
+    "created_at": "2026-06-16T12:46:16.993919Z",
+    "title": "tour-booking is crashing for some users",
+    "body": "The tour-booking tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10297",
+    "source": "synthetic",
+    "created_at": "2026-06-16T14:43:09.992843Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10449",
+    "source": "synthetic",
+    "created_at": "2026-06-16T15:57:16.993772Z",
+    "title": "Payment processor down, can't process payments",
+    "body": "Our payment processor is down. Checkout is throwing a 500 error on checkout for every attempt. Unable to place any orders since this started.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10420",
+    "source": "synthetic",
+    "created_at": "2026-06-16T17:09:43.993560Z",
+    "title": "Images not displaying on account",
+    "body": "Product images not displaying correctly on account. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10345",
+    "source": "synthetic",
+    "created_at": "2026-06-17T05:50:08.993121Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10057",
+    "source": "synthetic",
+    "created_at": "2026-06-17T07:15:35.990000Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10340",
+    "source": "synthetic",
+    "created_at": "2026-06-17T08:52:54.993094Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10404",
+    "source": "synthetic",
+    "created_at": "2026-06-17T09:58:04.993461Z",
+    "title": "Images not displaying on inventory",
+    "body": "Product images not displaying correctly on inventory. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10022",
+    "source": "synthetic",
+    "created_at": "2026-06-17T10:25:55.989778Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10492",
+    "source": "synthetic",
+    "created_at": "2026-06-17T10:27:02.994102Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10213",
+    "source": "synthetic",
+    "created_at": "2026-06-17T14:44:37.992278Z",
+    "title": "inventory slow to load",
+    "body": "inventory takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10033",
+    "source": "synthetic",
+    "created_at": "2026-06-17T17:44:58.989850Z",
+    "title": "Feature request for bike-builder",
+    "body": "Customer would like to request a wishlist feature on bike-builder. Not urgent, just a suggestion.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10466",
+    "source": "synthetic",
+    "created_at": "2026-06-18T02:32:09.993891Z",
+    "title": "Feature request for bike-builder",
+    "body": "Customer would like to request a wishlist feature on bike-builder. Not urgent, just a suggestion.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10228",
+    "source": "synthetic",
+    "created_at": "2026-06-18T10:13:35.992393Z",
+    "title": "Images not displaying on inventory",
+    "body": "Product images not displaying correctly on inventory. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10441",
+    "source": "synthetic",
+    "created_at": "2026-06-18T10:25:14.993707Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10475",
+    "source": "synthetic",
+    "created_at": "2026-06-18T18:06:48.993949Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10397",
+    "source": "synthetic",
+    "created_at": "2026-06-19T00:33:36.993421Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10388",
+    "source": "synthetic",
+    "created_at": "2026-06-19T07:28:33.993370Z",
+    "title": "Typo on checkout page",
+    "body": "Minor display issue: typo on the checkout product description page. Says 'recieve' instead of 'receive'.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10487",
+    "source": "synthetic",
+    "created_at": "2026-06-19T08:44:00.994071Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on bike-builder. Cosmetic only, account still works fine.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10064",
+    "source": "synthetic",
+    "created_at": "2026-06-19T13:51:02.990043Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10445",
+    "source": "synthetic",
+    "created_at": "2026-06-19T14:02:38.993736Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10447",
+    "source": "synthetic",
+    "created_at": "2026-06-19T15:49:57.993748Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10498",
+    "source": "synthetic",
+    "created_at": "2026-06-19T17:04:45.994143Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on bike-builder. Cosmetic only, account still works fine.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10428",
+    "source": "synthetic",
+    "created_at": "2026-06-19T19:01:30.993608Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10376",
+    "source": "synthetic",
+    "created_at": "2026-06-19T20:06:58.993301Z",
+    "title": "Typo on shipping page",
+    "body": "Minor display issue: typo on the shipping product description page. Says 'recieve' instead of 'receive'.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10347",
+    "source": "synthetic",
+    "created_at": "2026-06-19T20:28:03.993134Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10085",
+    "source": "synthetic",
+    "created_at": "2026-06-20T09:49:32.990586Z",
+    "title": "Payment processor down, can't process payments",
+    "body": "Our payment processor is down. Checkout is throwing a 500 error on checkout for every attempt. Unable to place any orders since this started.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10312",
+    "source": "synthetic",
+    "created_at": "2026-06-20T10:55:47.992930Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10333",
+    "source": "synthetic",
+    "created_at": "2026-06-20T12:43:19.993053Z",
+    "title": "Typo on checkout page",
+    "body": "Minor display issue: typo on the checkout product description page. Says 'recieve' instead of 'receive'.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10277",
+    "source": "synthetic",
+    "created_at": "2026-06-21T10:46:04.992720Z",
+    "title": "Typo on account page",
+    "body": "Minor display issue: typo on the account product description page. Says 'recieve' instead of 'receive'.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10014",
+    "source": "synthetic",
+    "created_at": "2026-06-21T17:17:27.989727Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10012",
+    "source": "synthetic",
+    "created_at": "2026-06-21T23:24:25.989714Z",
+    "title": "Feature request for mobile-app",
+    "body": "Customer would like to request a wishlist feature on mobile-app. Not urgent, just a suggestion.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10118",
+    "source": "synthetic",
+    "created_at": "2026-06-22T03:30:58.991214Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10002",
+    "source": "synthetic",
+    "created_at": "2026-06-22T08:28:39.989633Z",
+    "title": "shipping slow to load",
+    "body": "shipping takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10077",
+    "source": "synthetic",
+    "created_at": "2026-06-22T08:47:15.990459Z",
+    "title": "Feature request for bike-builder",
+    "body": "Customer would like to request a wishlist feature on bike-builder. Not urgent, just a suggestion.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10090",
+    "source": "synthetic",
+    "created_at": "2026-06-22T10:27:05.990662Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10319",
+    "source": "synthetic",
+    "created_at": "2026-06-23T06:58:26.992971Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10478",
+    "source": "synthetic",
+    "created_at": "2026-06-23T11:22:47.993967Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10196",
+    "source": "synthetic",
+    "created_at": "2026-06-23T15:56:27.992150Z",
+    "title": "Typo on shipping page",
+    "body": "Minor display issue: typo on the shipping product description page. Says 'recieve' instead of 'receive'.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10175",
+    "source": "synthetic",
+    "created_at": "2026-06-24T01:13:14.991928Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10210",
+    "source": "synthetic",
+    "created_at": "2026-06-24T11:36:42.992254Z",
+    "title": "mobile-app slow to load",
+    "body": "mobile-app takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10139",
+    "source": "synthetic",
+    "created_at": "2026-06-24T14:52:07.991512Z",
+    "title": "Feature request for inventory",
+    "body": "Customer would like to request a wishlist feature on inventory. Not urgent, just a suggestion.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10302",
+    "source": "synthetic",
+    "created_at": "2026-06-24T16:31:25.992871Z",
+    "title": "Images not displaying on inventory",
+    "body": "Product images not displaying correctly on inventory. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10343",
+    "source": "synthetic",
+    "created_at": "2026-06-24T16:41:11.993110Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10067",
+    "source": "synthetic",
+    "created_at": "2026-06-24T17:48:10.990060Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10328",
+    "source": "synthetic",
+    "created_at": "2026-06-24T20:24:32.993022Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10010",
+    "source": "synthetic",
+    "created_at": "2026-06-25T10:42:04.989701Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10042",
+    "source": "synthetic",
+    "created_at": "2026-06-25T15:22:08.989907Z",
+    "title": "mobile-app slow to load",
+    "body": "mobile-app takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10385",
+    "source": "synthetic",
+    "created_at": "2026-06-25T16:06:27.993354Z",
+    "title": "Images not displaying on mobile-app",
+    "body": "Product images not displaying correctly on mobile-app. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10402",
+    "source": "synthetic",
+    "created_at": "2026-06-25T17:11:45.993448Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on tour-booking. Cosmetic only, account still works fine.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10130",
+    "source": "synthetic",
+    "created_at": "2026-06-26T09:07:16.991393Z",
+    "title": "bike-builder is down, customers can't check out",
+    "body": "Multiple customers reporting bike-builder is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10455",
+    "source": "synthetic",
+    "created_at": "2026-06-26T11:46:06.993823Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10048",
+    "source": "synthetic",
+    "created_at": "2026-06-26T12:21:04.989943Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10089",
+    "source": "synthetic",
+    "created_at": "2026-06-26T13:07:32.990648Z",
+    "title": "Feature request for tour-booking",
+    "body": "Customer would like to request a wishlist feature on tour-booking. Not urgent, just a suggestion.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10028",
+    "source": "synthetic",
+    "created_at": "2026-06-26T13:54:31.989818Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10392",
+    "source": "synthetic",
+    "created_at": "2026-06-26T14:36:39.993394Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10058",
+    "source": "synthetic",
+    "created_at": "2026-06-26T17:25:13.990006Z",
+    "title": "Images not displaying on shipping",
+    "body": "Product images not displaying correctly on shipping. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10117",
+    "source": "synthetic",
+    "created_at": "2026-06-26T19:08:49.991196Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on bike-builder. Cosmetic only, account still works fine.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10105",
+    "source": "synthetic",
+    "created_at": "2026-06-26T21:46:30.990871Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10150",
+    "source": "synthetic",
+    "created_at": "2026-06-26T23:26:47.991648Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10463",
+    "source": "synthetic",
+    "created_at": "2026-06-27T01:41:37.993871Z",
+    "title": "Images not displaying on inventory",
+    "body": "Product images not displaying correctly on inventory. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10401",
+    "source": "synthetic",
+    "created_at": "2026-06-27T03:02:09.993443Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10184",
+    "source": "synthetic",
+    "created_at": "2026-06-27T10:59:41.992079Z",
+    "title": "Typo on mobile-app page",
+    "body": "Minor display issue: typo on the mobile-app product description page. Says 'recieve' instead of 'receive'.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10122",
+    "source": "synthetic",
+    "created_at": "2026-06-27T11:26:43.991279Z",
+    "title": "checkout is crashing for some users",
+    "body": "The checkout tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10346",
+    "source": "synthetic",
+    "created_at": "2026-06-27T13:46:01.993127Z",
+    "title": "Images not displaying on tour-booking",
+    "body": "Product images not displaying correctly on tour-booking. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10177",
+    "source": "synthetic",
+    "created_at": "2026-06-27T17:07:09.991952Z",
+    "title": "shipping slow to load",
+    "body": "shipping takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10008",
+    "source": "synthetic",
+    "created_at": "2026-06-28T06:48:39.989681Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10226",
+    "source": "synthetic",
+    "created_at": "2026-06-28T08:38:26.992377Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10451",
+    "source": "synthetic",
+    "created_at": "2026-06-28T11:31:43.993795Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10371",
+    "source": "synthetic",
+    "created_at": "2026-06-28T13:21:23.993273Z",
+    "title": "Feature request for tour-booking",
+    "body": "Customer would like to request a wishlist feature on tour-booking. Not urgent, just a suggestion.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10209",
+    "source": "synthetic",
+    "created_at": "2026-06-29T09:56:12.992244Z",
+    "title": "Images not displaying on checkout",
+    "body": "Product images not displaying correctly on checkout. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10183",
+    "source": "synthetic",
+    "created_at": "2026-06-29T17:07:44.992072Z",
+    "title": "Payment processor down, can't process payments",
+    "body": "Our payment processor is down. Checkout is throwing a 500 error on checkout for every attempt. Unable to place any orders since this started.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10317",
+    "source": "synthetic",
+    "created_at": "2026-06-30T10:06:06.992959Z",
+    "title": "Typo on checkout page",
+    "body": "Minor display issue: typo on the checkout product description page. Says 'recieve' instead of 'receive'.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10481",
+    "source": "synthetic",
+    "created_at": "2026-06-30T12:43:19.994032Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on tour-booking. Cosmetic only, account still works fine.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10098",
+    "source": "synthetic",
+    "created_at": "2026-06-30T14:50:35.990772Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10284",
+    "source": "synthetic",
+    "created_at": "2026-06-30T16:12:40.992764Z",
+    "title": "mobile-app is down, customers can't check out",
+    "body": "Multiple customers reporting mobile-app is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10045",
+    "source": "synthetic",
+    "created_at": "2026-06-30T17:54:56.989925Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10249",
+    "source": "synthetic",
+    "created_at": "2026-06-30T19:23:10.992549Z",
+    "title": "mobile-app is down, customers can't check out",
+    "body": "Multiple customers reporting mobile-app is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "mobile-app",
+    "status": "open",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10477",
+    "source": "synthetic",
+    "created_at": "2026-07-01T01:37:53.993961Z",
+    "title": "bike-builder slow to load",
+    "body": "bike-builder takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10332",
+    "source": "synthetic",
+    "created_at": "2026-07-01T05:44:34.993046Z",
+    "title": "Images not displaying on checkout",
+    "body": "Product images not displaying correctly on checkout. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10254",
+    "source": "synthetic",
+    "created_at": "2026-07-01T10:03:15.992581Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10035",
+    "source": "synthetic",
+    "created_at": "2026-07-01T12:37:47.989861Z",
+    "title": "Images not displaying on account",
+    "body": "Product images not displaying correctly on account. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10355",
+    "source": "synthetic",
+    "created_at": "2026-07-01T15:27:07.993183Z",
+    "title": "Feature request for checkout",
+    "body": "Customer would like to request a wishlist feature on checkout. Not urgent, just a suggestion.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10336",
+    "source": "synthetic",
+    "created_at": "2026-07-02T01:16:07.993070Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10169",
+    "source": "synthetic",
+    "created_at": "2026-07-02T13:18:56.991860Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10138",
+    "source": "synthetic",
+    "created_at": "2026-07-02T13:50:49.991500Z",
+    "title": "Typo on shipping page",
+    "body": "Minor display issue: typo on the shipping product description page. Says 'recieve' instead of 'receive'.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10438",
+    "source": "synthetic",
+    "created_at": "2026-07-02T14:59:38.993671Z",
+    "title": "Typo on shipping page",
+    "body": "Minor display issue: typo on the shipping product description page. Says 'recieve' instead of 'receive'.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10327",
+    "source": "synthetic",
+    "created_at": "2026-07-02T17:01:51.993017Z",
+    "title": "Images not displaying on checkout",
+    "body": "Product images not displaying correctly on checkout. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10224",
+    "source": "synthetic",
+    "created_at": "2026-07-03T02:25:42.992364Z",
+    "title": "Feature request for bike-builder",
+    "body": "Customer would like to request a wishlist feature on bike-builder. Not urgent, just a suggestion.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10237",
+    "source": "synthetic",
+    "created_at": "2026-07-03T09:16:21.992458Z",
+    "title": "mobile-app is crashing for some users",
+    "body": "The mobile-app tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10265",
+    "source": "synthetic",
+    "created_at": "2026-07-03T11:05:58.992647Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10454",
+    "source": "synthetic",
+    "created_at": "2026-07-03T11:42:47.993817Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10370",
+    "source": "synthetic",
+    "created_at": "2026-07-03T12:15:56.993266Z",
+    "title": "Images not displaying on shipping",
+    "body": "Product images not displaying correctly on shipping. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10074",
+    "source": "synthetic",
+    "created_at": "2026-07-03T15:10:44.990411Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10437",
+    "source": "synthetic",
+    "created_at": "2026-07-03T15:52:52.993664Z",
+    "title": "tour-booking is down, customers can't check out",
+    "body": "Multiple customers reporting tour-booking is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10344",
+    "source": "synthetic",
+    "created_at": "2026-07-03T17:34:20.993116Z",
+    "title": "Images not displaying on shipping",
+    "body": "Product images not displaying correctly on shipping. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10486",
+    "source": "synthetic",
+    "created_at": "2026-07-03T20:02:28.994063Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10419",
+    "source": "synthetic",
+    "created_at": "2026-07-03T22:55:02.993554Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10485",
+    "source": "synthetic",
+    "created_at": "2026-07-04T01:04:01.994056Z",
+    "title": "Typo on inventory page",
+    "body": "Minor display issue: typo on the inventory product description page. Says 'recieve' instead of 'receive'.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10273",
+    "source": "synthetic",
+    "created_at": "2026-07-04T08:07:48.992695Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10410",
+    "source": "synthetic",
+    "created_at": "2026-07-04T09:18:33.993500Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10261",
+    "source": "synthetic",
+    "created_at": "2026-07-04T09:55:06.992624Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10311",
+    "source": "synthetic",
+    "created_at": "2026-07-04T10:29:59.992925Z",
+    "title": "Typo on tour-booking page",
+    "body": "Minor display issue: typo on the tour-booking product description page. Says 'recieve' instead of 'receive'.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10188",
+    "source": "synthetic",
+    "created_at": "2026-07-04T10:31:18.992101Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on bike-builder. Cosmetic only, account still works fine.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10152",
+    "source": "synthetic",
+    "created_at": "2026-07-04T11:42:52.991670Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10046",
+    "source": "synthetic",
+    "created_at": "2026-07-04T13:21:15.989930Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10189",
+    "source": "synthetic",
+    "created_at": "2026-07-04T23:57:33.992107Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on checkout. Cosmetic only, account still works fine.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10231",
+    "source": "synthetic",
+    "created_at": "2026-07-05T15:54:14.992414Z",
+    "title": "Images not displaying on checkout",
+    "body": "Product images not displaying correctly on checkout. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10363",
+    "source": "synthetic",
+    "created_at": "2026-07-05T17:27:50.993227Z",
+    "title": "Images not displaying on inventory",
+    "body": "Product images not displaying correctly on inventory. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10465",
+    "source": "synthetic",
+    "created_at": "2026-07-06T01:55:52.993885Z",
+    "title": "Images not displaying on mobile-app",
+    "body": "Product images not displaying correctly on mobile-app. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10075",
+    "source": "synthetic",
+    "created_at": "2026-07-06T08:19:09.990428Z",
+    "title": "Feature request for mobile-app",
+    "body": "Customer would like to request a wishlist feature on mobile-app. Not urgent, just a suggestion.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10310",
+    "source": "synthetic",
+    "created_at": "2026-07-06T08:36:47.992919Z",
+    "title": "tour-booking is crashing for some users",
+    "body": "The tour-booking tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10457",
+    "source": "synthetic",
+    "created_at": "2026-07-06T09:00:11.993834Z",
+    "title": "Typo on inventory page",
+    "body": "Minor display issue: typo on the inventory product description page. Says 'recieve' instead of 'receive'.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10358",
+    "source": "synthetic",
+    "created_at": "2026-07-06T09:39:53.993200Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10383",
+    "source": "synthetic",
+    "created_at": "2026-07-06T10:52:35.993343Z",
+    "title": "Typo on account page",
+    "body": "Minor display issue: typo on the account product description page. Says 'recieve' instead of 'receive'.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10242",
+    "source": "synthetic",
+    "created_at": "2026-07-06T11:35:33.992494Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10073",
+    "source": "synthetic",
+    "created_at": "2026-07-06T11:36:03.990394Z",
+    "title": "Images not displaying on tour-booking",
+    "body": "Product images not displaying correctly on tour-booking. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10495",
+    "source": "synthetic",
+    "created_at": "2026-07-06T12:34:06.994121Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10259",
+    "source": "synthetic",
+    "created_at": "2026-07-06T14:46:12.992613Z",
+    "title": "shipping slow to load",
+    "body": "shipping takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10157",
+    "source": "synthetic",
+    "created_at": "2026-07-06T15:23:05.991729Z",
+    "title": "inventory slow to load",
+    "body": "inventory takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10240",
+    "source": "synthetic",
+    "created_at": "2026-07-06T16:45:14.992480Z",
+    "title": "Images not displaying on inventory",
+    "body": "Product images not displaying correctly on inventory. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10309",
+    "source": "synthetic",
+    "created_at": "2026-07-06T20:33:53.992914Z",
+    "title": "Feature request for checkout",
+    "body": "Customer would like to request a wishlist feature on checkout. Not urgent, just a suggestion.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10221",
+    "source": "synthetic",
+    "created_at": "2026-07-07T06:41:53.992346Z",
+    "title": "Typo on checkout page",
+    "body": "Minor display issue: typo on the checkout product description page. Says 'recieve' instead of 'receive'.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10053",
+    "source": "synthetic",
+    "created_at": "2026-07-07T10:17:36.989973Z",
+    "title": "Typo on bike-builder page",
+    "body": "Minor display issue: typo on the bike-builder product description page. Says 'recieve' instead of 'receive'.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10127",
+    "source": "synthetic",
+    "created_at": "2026-07-07T10:50:22.991350Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on account. Cosmetic only, account still works fine.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10326",
+    "source": "synthetic",
+    "created_at": "2026-07-07T15:22:18.993011Z",
+    "title": "mobile-app slow to load",
+    "body": "mobile-app takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10070",
+    "source": "synthetic",
+    "created_at": "2026-07-07T15:35:08.990275Z",
+    "title": "shipping slow to load",
+    "body": "shipping takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10023",
+    "source": "synthetic",
+    "created_at": "2026-07-07T22:06:56.989784Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on checkout. Cosmetic only, account still works fine.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10341",
+    "source": "synthetic",
+    "created_at": "2026-07-07T23:24:43.993099Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on shipping. Cosmetic only, account still works fine.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10146",
+    "source": "synthetic",
+    "created_at": "2026-07-08T09:51:14.991605Z",
+    "title": "Typo on checkout page",
+    "body": "Minor display issue: typo on the checkout product description page. Says 'recieve' instead of 'receive'.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10225",
+    "source": "synthetic",
+    "created_at": "2026-07-08T09:53:01.992370Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10202",
+    "source": "synthetic",
+    "created_at": "2026-07-08T10:42:19.992192Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10351",
+    "source": "synthetic",
+    "created_at": "2026-07-08T11:45:19.993158Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10382",
+    "source": "synthetic",
+    "created_at": "2026-07-08T13:17:35.993337Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on mobile-app. Cosmetic only, account still works fine.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10140",
+    "source": "synthetic",
+    "created_at": "2026-07-08T14:43:13.991522Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10270",
+    "source": "synthetic",
+    "created_at": "2026-07-08T14:54:47.992679Z",
+    "title": "Typo on mobile-app page",
+    "body": "Minor display issue: typo on the mobile-app product description page. Says 'recieve' instead of 'receive'.",
+    "service": "mobile-app",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10197",
+    "source": "synthetic",
+    "created_at": "2026-07-08T15:11:40.992157Z",
+    "title": "Typo on bike-builder page",
+    "body": "Minor display issue: typo on the bike-builder product description page. Says 'recieve' instead of 'receive'.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10374",
+    "source": "synthetic",
+    "created_at": "2026-07-08T17:12:23.993291Z",
+    "title": "Images not displaying on bike-builder",
+    "body": "Product images not displaying correctly on bike-builder. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10472",
+    "source": "synthetic",
+    "created_at": "2026-07-09T11:45:38.993931Z",
+    "title": "Payment processor down, can't process payments",
+    "body": "Our payment processor is down. Checkout is throwing a 500 error on checkout for every attempt. Unable to place any orders since this started.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10318",
+    "source": "synthetic",
+    "created_at": "2026-07-09T14:24:14.992966Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10396",
+    "source": "synthetic",
+    "created_at": "2026-07-09T16:57:39.993415Z",
+    "title": "Images not displaying on bike-builder",
+    "body": "Product images not displaying correctly on bike-builder. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10286",
+    "source": "synthetic",
+    "created_at": "2026-07-09T19:12:50.992777Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10293",
+    "source": "synthetic",
+    "created_at": "2026-07-10T00:33:28.992819Z",
+    "title": "Feature request for inventory",
+    "body": "Customer would like to request a wishlist feature on inventory. Not urgent, just a suggestion.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10222",
+    "source": "synthetic",
+    "created_at": "2026-07-10T09:00:18.992354Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10268",
+    "source": "synthetic",
+    "created_at": "2026-07-10T11:17:59.992667Z",
+    "title": "shipping is down, customers can't check out",
+    "body": "Multiple customers reporting shipping is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10446",
+    "source": "synthetic",
+    "created_at": "2026-07-10T12:14:00.993741Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10167",
+    "source": "synthetic",
+    "created_at": "2026-07-10T12:36:06.991839Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10260",
+    "source": "synthetic",
+    "created_at": "2026-07-10T14:53:52.992618Z",
+    "title": "shipping slow to load",
+    "body": "shipping takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10313",
+    "source": "synthetic",
+    "created_at": "2026-07-10T17:12:02.992935Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10432",
+    "source": "synthetic",
+    "created_at": "2026-07-11T00:52:06.993633Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10186",
+    "source": "synthetic",
+    "created_at": "2026-07-11T13:28:01.992090Z",
+    "title": "Typo on shipping page",
+    "body": "Minor display issue: typo on the shipping product description page. Says 'recieve' instead of 'receive'.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10038",
+    "source": "synthetic",
+    "created_at": "2026-07-11T14:58:03.989881Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10158",
+    "source": "synthetic",
+    "created_at": "2026-07-11T16:31:34.991742Z",
+    "title": "Payment processor down, can't process payments",
+    "body": "Our payment processor is down. Checkout is throwing a 500 error on checkout for every attempt. Unable to place any orders since this started.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10427",
+    "source": "synthetic",
+    "created_at": "2026-07-11T17:01:14.993601Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10185",
+    "source": "synthetic",
+    "created_at": "2026-07-12T03:37:43.992085Z",
+    "title": "Images not displaying on shipping",
+    "body": "Product images not displaying correctly on shipping. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10230",
+    "source": "synthetic",
+    "created_at": "2026-07-12T11:13:38.992406Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10243",
+    "source": "synthetic",
+    "created_at": "2026-07-12T11:14:39.992502Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10488",
+    "source": "synthetic",
+    "created_at": "2026-07-12T14:38:59.994077Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10300",
+    "source": "synthetic",
+    "created_at": "2026-07-12T14:55:53.992859Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10406",
+    "source": "synthetic",
+    "created_at": "2026-07-12T15:34:46.993473Z",
+    "title": "Images not displaying on account",
+    "body": "Product images not displaying correctly on account. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10393",
+    "source": "synthetic",
+    "created_at": "2026-07-13T02:24:45.993399Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on checkout. Cosmetic only, account still works fine.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10295",
+    "source": "synthetic",
+    "created_at": "2026-07-13T09:07:44.992832Z",
+    "title": "Typo on bike-builder page",
+    "body": "Minor display issue: typo on the bike-builder product description page. Says 'recieve' instead of 'receive'.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10110",
+    "source": "synthetic",
+    "created_at": "2026-07-13T15:27:53.990941Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10126",
+    "source": "synthetic",
+    "created_at": "2026-07-13T17:44:33.991336Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10111",
+    "source": "synthetic",
+    "created_at": "2026-07-13T17:48:02.990957Z",
+    "title": "Payment processor down, can't process payments",
+    "body": "Our payment processor is down. Checkout is throwing a 500 error on checkout for every attempt. Unable to place any orders since this started.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10068",
+    "source": "synthetic",
+    "created_at": "2026-07-14T06:05:05.990066Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10181",
+    "source": "synthetic",
+    "created_at": "2026-07-14T14:12:51.992029Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10005",
+    "source": "synthetic",
+    "created_at": "2026-07-14T14:37:41.989661Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10024",
+    "source": "synthetic",
+    "created_at": "2026-07-14T17:31:11.989790Z",
+    "title": "mobile-app slow to load",
+    "body": "mobile-app takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10423",
+    "source": "synthetic",
+    "created_at": "2026-07-14T22:09:30.993577Z",
+    "title": "Images not displaying on account",
+    "body": "Product images not displaying correctly on account. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10029",
+    "source": "synthetic",
+    "created_at": "2026-07-15T08:14:49.989825Z",
+    "title": "Typo on account page",
+    "body": "Minor display issue: typo on the account product description page. Says 'recieve' instead of 'receive'.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10337",
+    "source": "synthetic",
+    "created_at": "2026-07-15T15:15:57.993077Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10211",
+    "source": "synthetic",
+    "created_at": "2026-07-15T21:09:58.992262Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10061",
+    "source": "synthetic",
+    "created_at": "2026-07-16T05:59:10.990025Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10080",
+    "source": "synthetic",
+    "created_at": "2026-07-16T10:31:04.990506Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on shipping. Cosmetic only, account still works fine.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10316",
+    "source": "synthetic",
+    "created_at": "2026-07-16T10:53:51.992953Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on account. Cosmetic only, account still works fine.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10357",
+    "source": "synthetic",
+    "created_at": "2026-07-16T12:13:03.993194Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10348",
+    "source": "synthetic",
+    "created_at": "2026-07-16T14:30:51.993141Z",
+    "title": "Typo on account page",
+    "body": "Minor display issue: typo on the account product description page. Says 'recieve' instead of 'receive'.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10113",
+    "source": "synthetic",
+    "created_at": "2026-07-16T22:28:38.990997Z",
+    "title": "Images not displaying on checkout",
+    "body": "Product images not displaying correctly on checkout. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10299",
+    "source": "synthetic",
+    "created_at": "2026-07-17T03:01:21.992854Z",
+    "title": "Feature request for bike-builder",
+    "body": "Customer would like to request a wishlist feature on bike-builder. Not urgent, just a suggestion.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10306",
+    "source": "synthetic",
+    "created_at": "2026-07-17T07:59:45.992897Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10200",
+    "source": "synthetic",
+    "created_at": "2026-07-17T08:30:44.992177Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10060",
+    "source": "synthetic",
+    "created_at": "2026-07-17T09:03:26.990020Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10162",
+    "source": "synthetic",
+    "created_at": "2026-07-17T09:25:42.991786Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10469",
+    "source": "synthetic",
+    "created_at": "2026-07-17T22:05:05.993911Z",
+    "title": "Typo on mobile-app page",
+    "body": "Minor display issue: typo on the mobile-app product description page. Says 'recieve' instead of 'receive'.",
+    "service": "mobile-app",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10059",
+    "source": "synthetic",
+    "created_at": "2026-07-18T03:32:54.990012Z",
+    "title": "shipping slow to load",
+    "body": "shipping takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10375",
+    "source": "synthetic",
+    "created_at": "2026-07-18T09:36:27.993296Z",
+    "title": "Payment processor down, can't process payments",
+    "body": "Our payment processor is down. Checkout is throwing a 500 error on checkout for every attempt. Unable to place any orders since this started.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10040",
+    "source": "synthetic",
+    "created_at": "2026-07-18T09:47:37.989893Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10251",
+    "source": "synthetic",
+    "created_at": "2026-07-18T11:03:31.992563Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10262",
+    "source": "synthetic",
+    "created_at": "2026-07-18T12:40:45.992630Z",
+    "title": "Images not displaying on bike-builder",
+    "body": "Product images not displaying correctly on bike-builder. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10307",
+    "source": "synthetic",
+    "created_at": "2026-07-18T16:36:40.992903Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on account. Cosmetic only, account still works fine.",
+    "service": "account",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10166",
+    "source": "synthetic",
+    "created_at": "2026-07-18T17:07:21.991829Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10435",
+    "source": "synthetic",
+    "created_at": "2026-07-20T08:46:19.993651Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10026",
+    "source": "synthetic",
+    "created_at": "2026-07-20T11:31:10.989806Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on shipping. Cosmetic only, account still works fine.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10287",
+    "source": "synthetic",
+    "created_at": "2026-07-20T12:01:31.992784Z",
+    "title": "shipping slow to load",
+    "body": "shipping takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10491",
+    "source": "synthetic",
+    "created_at": "2026-07-20T14:03:44.994096Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "checkout",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10124",
+    "source": "synthetic",
+    "created_at": "2026-07-20T14:04:50.991310Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on tour-booking. Cosmetic only, account still works fine.",
+    "service": "tour-booking",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10041",
+    "source": "synthetic",
+    "created_at": "2026-07-20T14:34:03.989901Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10433",
+    "source": "synthetic",
+    "created_at": "2026-07-20T18:19:10.993639Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10458",
+    "source": "synthetic",
+    "created_at": "2026-07-20T22:49:44.993840Z",
+    "title": "Images not displaying on bike-builder",
+    "body": "Product images not displaying correctly on bike-builder. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10176",
+    "source": "synthetic",
+    "created_at": "2026-07-21T08:07:16.991938Z",
+    "title": "mobile-app slow to load",
+    "body": "mobile-app takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10329",
+    "source": "synthetic",
+    "created_at": "2026-07-21T08:11:31.993028Z",
+    "title": "shipping slow to load",
+    "body": "shipping takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10331",
+    "source": "synthetic",
+    "created_at": "2026-07-21T10:03:43.993039Z",
+    "title": "Images not displaying on bike-builder",
+    "body": "Product images not displaying correctly on bike-builder. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10350",
+    "source": "synthetic",
+    "created_at": "2026-07-21T14:19:46.993152Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10436",
+    "source": "synthetic",
+    "created_at": "2026-07-21T14:21:35.993657Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10066",
+    "source": "synthetic",
+    "created_at": "2026-07-22T19:24:52.990055Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10247",
+    "source": "synthetic",
+    "created_at": "2026-07-23T03:10:54.992534Z",
+    "title": "tour-booking slow to load",
+    "body": "tour-booking takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10354",
+    "source": "synthetic",
+    "created_at": "2026-07-23T04:55:34.993177Z",
+    "title": "Feature request for bike-builder",
+    "body": "Customer would like to request a wishlist feature on bike-builder. Not urgent, just a suggestion.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10020",
+    "source": "synthetic",
+    "created_at": "2026-07-23T10:23:06.989764Z",
+    "title": "Typo on shipping page",
+    "body": "Minor display issue: typo on the shipping product description page. Says 'recieve' instead of 'receive'.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10480",
+    "source": "synthetic",
+    "created_at": "2026-07-23T10:44:13.994025Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10281",
+    "source": "synthetic",
+    "created_at": "2026-07-23T13:51:27.992743Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10063",
+    "source": "synthetic",
+    "created_at": "2026-07-23T16:08:12.990037Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10151",
+    "source": "synthetic",
+    "created_at": "2026-07-23T16:31:10.991659Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10443",
+    "source": "synthetic",
+    "created_at": "2026-07-23T16:57:41.993723Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10128",
+    "source": "synthetic",
+    "created_at": "2026-07-23T17:25:12.991364Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10093",
+    "source": "synthetic",
+    "created_at": "2026-07-24T04:59:51.990704Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10165",
+    "source": "synthetic",
+    "created_at": "2026-07-24T09:41:47.991819Z",
+    "title": "inventory is down, customers can't check out",
+    "body": "Multiple customers reporting inventory is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10223",
+    "source": "synthetic",
+    "created_at": "2026-07-24T13:35:40.992359Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10323",
+    "source": "synthetic",
+    "created_at": "2026-07-24T15:15:10.992994Z",
+    "title": "Typo on bike-builder page",
+    "body": "Minor display issue: typo on the bike-builder product description page. Says 'recieve' instead of 'receive'.",
+    "service": "bike-builder",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10395",
+    "source": "synthetic",
+    "created_at": "2026-07-24T15:18:53.993409Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10054",
+    "source": "synthetic",
+    "created_at": "2026-07-24T16:05:52.989980Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10212",
+    "source": "synthetic",
+    "created_at": "2026-07-24T17:23:55.992270Z",
+    "title": "Typo on bike-builder page",
+    "body": "Minor display issue: typo on the bike-builder product description page. Says 'recieve' instead of 'receive'.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10314",
+    "source": "synthetic",
+    "created_at": "2026-07-24T18:01:02.992942Z",
+    "title": "Typo on bike-builder page",
+    "body": "Minor display issue: typo on the bike-builder product description page. Says 'recieve' instead of 'receive'.",
+    "service": "bike-builder",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10305",
+    "source": "synthetic",
+    "created_at": "2026-07-24T21:52:23.992890Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on shipping. Cosmetic only, account still works fine.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10476",
+    "source": "synthetic",
+    "created_at": "2026-07-25T14:21:39.993955Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10320",
+    "source": "synthetic",
+    "created_at": "2026-07-25T17:25:07.992977Z",
+    "title": "Feature request for inventory",
+    "body": "Customer would like to request a wishlist feature on inventory. Not urgent, just a suggestion.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10108",
+    "source": "synthetic",
+    "created_at": "2026-07-26T13:04:57.990912Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on account. Cosmetic only, account still works fine.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10056",
+    "source": "synthetic",
+    "created_at": "2026-07-26T13:48:28.989994Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10285",
+    "source": "synthetic",
+    "created_at": "2026-07-26T14:39:49.992771Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10459",
+    "source": "synthetic",
+    "created_at": "2026-07-26T20:39:27.993846Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10398",
+    "source": "synthetic",
+    "created_at": "2026-07-26T23:53:38.993426Z",
+    "title": "Feature request for account",
+    "body": "Customer would like to request a wishlist feature on account. Not urgent, just a suggestion.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10104",
+    "source": "synthetic",
+    "created_at": "2026-07-27T03:44:40.990858Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10386",
+    "source": "synthetic",
+    "created_at": "2026-07-27T11:01:02.993359Z",
+    "title": "Tour bookings failing for weekend slots",
+    "body": "Tour bookings failing when customers try to book weekend slots. Can't complete booking past the confirmation step.",
+    "service": "inventory",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10258",
+    "source": "synthetic",
+    "created_at": "2026-07-28T11:07:43.992606Z",
+    "title": "checkout is down, customers can't check out",
+    "body": "Multiple customers reporting checkout is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "checkout",
+    "status": "open",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10431",
+    "source": "synthetic",
+    "created_at": "2026-07-28T11:21:24.993627Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10394",
+    "source": "synthetic",
+    "created_at": "2026-07-28T12:17:52.993404Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10411",
+    "source": "synthetic",
+    "created_at": "2026-07-28T15:26:05.993507Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on mobile-app. Cosmetic only, account still works fine.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10301",
+    "source": "synthetic",
+    "created_at": "2026-07-28T15:57:57.992865Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on mobile-app. Cosmetic only, account still works fine.",
+    "service": "mobile-app",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10044",
+    "source": "synthetic",
+    "created_at": "2026-07-28T19:11:57.989919Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10051",
+    "source": "synthetic",
+    "created_at": "2026-07-29T02:10:27.989961Z",
+    "title": "Feature request for tour-booking",
+    "body": "Customer would like to request a wishlist feature on tour-booking. Not urgent, just a suggestion.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10342",
+    "source": "synthetic",
+    "created_at": "2026-07-29T03:26:38.993105Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10241",
+    "source": "synthetic",
+    "created_at": "2026-07-29T08:44:21.992487Z",
+    "title": "Images not displaying on shipping",
+    "body": "Product images not displaying correctly on shipping. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10233",
+    "source": "synthetic",
+    "created_at": "2026-07-29T12:27:19.992428Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10084",
+    "source": "synthetic",
+    "created_at": "2026-07-29T17:08:15.990569Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on shipping. Cosmetic only, account still works fine.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10076",
+    "source": "synthetic",
+    "created_at": "2026-07-29T20:21:39.990443Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10387",
+    "source": "synthetic",
+    "created_at": "2026-07-30T02:17:49.993365Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on account. Cosmetic only, account still works fine.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10244",
+    "source": "synthetic",
+    "created_at": "2026-07-30T08:30:34.992509Z",
+    "title": "Images not displaying on tour-booking",
+    "body": "Product images not displaying correctly on tour-booking. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "tour-booking",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10426",
+    "source": "synthetic",
+    "created_at": "2026-07-30T15:30:43.993596Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on mobile-app. Cosmetic only, account still works fine.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10408",
+    "source": "synthetic",
+    "created_at": "2026-07-30T17:01:47.993486Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on inventory. Cosmetic only, account still works fine.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10168",
+    "source": "synthetic",
+    "created_at": "2026-07-30T17:06:15.991849Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10239",
+    "source": "synthetic",
+    "created_at": "2026-07-30T20:36:47.992472Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on mobile-app. Cosmetic only, account still works fine.",
+    "service": "mobile-app",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10377",
+    "source": "synthetic",
+    "created_at": "2026-07-31T05:53:05.993308Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10201",
+    "source": "synthetic",
+    "created_at": "2026-07-31T08:07:18.992185Z",
+    "title": "Images not displaying on shipping",
+    "body": "Product images not displaying correctly on shipping. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "shipping",
+    "status": "resolved",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10006",
+    "source": "synthetic",
+    "created_at": "2026-07-31T11:09:30.989668Z",
+    "title": "mobile-app is down, customers can't check out",
+    "body": "Multiple customers reporting mobile-app is down. Checkout is down and no orders are going through. This is affecting all customers right now.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P1"
+  },
+  {
+    "external_id": "ATC-10055",
+    "source": "synthetic",
+    "created_at": "2026-07-31T11:57:24.989986Z",
+    "title": "Feature request for bike-builder",
+    "body": "Customer would like to request a wishlist feature on bike-builder. Not urgent, just a suggestion.",
+    "service": "bike-builder",
+    "status": "resolved",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10207",
+    "source": "synthetic",
+    "created_at": "2026-07-31T14:06:55.992231Z",
+    "title": "inventory slow to load",
+    "body": "inventory takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "inventory",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10132",
+    "source": "synthetic",
+    "created_at": "2026-07-31T14:28:36.991421Z",
+    "title": "Shipping labels not generating",
+    "body": "Warehouse team says shipping labels not generating for orders placed in the last two hours. Orders stuck in processing.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10474",
+    "source": "synthetic",
+    "created_at": "2026-07-31T15:26:29.993943Z",
+    "title": "shipping is crashing for some users",
+    "body": "The shipping tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10296",
+    "source": "synthetic",
+    "created_at": "2026-07-31T16:13:13.992838Z",
+    "title": "inventory is crashing for some users",
+    "body": "The inventory tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "inventory",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10195",
+    "source": "synthetic",
+    "created_at": "2026-07-31T17:02:01.992144Z",
+    "title": "checkout slow to load",
+    "body": "checkout takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "checkout",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10464",
+    "source": "synthetic",
+    "created_at": "2026-07-31T18:19:41.993877Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on account. Cosmetic only, account still works fine.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10417",
+    "source": "synthetic",
+    "created_at": "2026-07-31T20:04:03.993543Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10107",
+    "source": "synthetic",
+    "created_at": "2026-08-01T08:20:44.990899Z",
+    "title": "mobile-app is crashing for some users",
+    "body": "The mobile-app tool is crashing intermittently. Support has gotten several reports this morning, seems to affect maybe a third of attempts.",
+    "service": "mobile-app",
+    "status": "closed",
+    "_seed_severity": "P2"
+  },
+  {
+    "external_id": "ATC-10324",
+    "source": "synthetic",
+    "created_at": "2026-08-01T09:31:27.993000Z",
+    "title": "account slow to load",
+    "body": "account takes a long time to load, sometimes times out on the first attempt. Reloading usually fixes it.",
+    "service": "account",
+    "status": "closed",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10415",
+    "source": "synthetic",
+    "created_at": "2026-08-01T12:39:25.993530Z",
+    "title": "Password reset email delayed",
+    "body": "Customer says password reset email delayed by about 20 minutes. Eventually arrived, just slow.",
+    "service": "tour-booking",
+    "status": "closed",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10172",
+    "source": "synthetic",
+    "created_at": "2026-08-01T17:41:42.991892Z",
+    "title": "Feature request for shipping",
+    "body": "Customer would like to request a wishlist feature on shipping. Not urgent, just a suggestion.",
+    "service": "shipping",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10095",
+    "source": "synthetic",
+    "created_at": "2026-08-02T13:03:55.990731Z",
+    "title": "Images not displaying on mobile-app",
+    "body": "Product images not displaying correctly on mobile-app. Occasionally fails to load thumbnails, intermittent error, not consistent.",
+    "service": "mobile-app",
+    "status": "open",
+    "_seed_severity": "P3"
+  },
+  {
+    "external_id": "ATC-10380",
+    "source": "synthetic",
+    "created_at": "2026-08-02T13:27:52.993325Z",
+    "title": "Typo on account page",
+    "body": "Minor display issue: typo on the account product description page. Says 'recieve' instead of 'receive'.",
+    "service": "account",
+    "status": "open",
+    "_seed_severity": "P4"
+  },
+  {
+    "external_id": "ATC-10253",
+    "source": "synthetic",
+    "created_at": "2026-08-02T16:28:25.992575Z",
+    "title": "Profile picture not updating",
+    "body": "One customer says their profile picture not updating after upload on shipping. Cosmetic only, account still works fine.",
+    "service": "shipping",
+    "status": "closed",
+    "_seed_severity": "P4"
+  }
+]
