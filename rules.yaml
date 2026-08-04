@@ -1,0 +1,72 @@
+#eval top to bottome the frist match wind
+
+
+
+rules:
+  - name: payment_processor_down
+    severity: P1
+    fields: [title, body]
+    any:
+      - "payment processor down"
+      - "can't process payments"
+
+  - name: service_outage
+    severity: P1
+    fields: [title, body]
+    any:
+      - "is down"
+      - "can't check out"
+
+  - name: bookings_failing
+    severity: P2
+    fields: [title, body]
+    any:
+      - "bookings failing"
+
+  - name: labels_not_generating
+    severity: P2
+    fields: [title, body]
+    any:
+      - "labels not generating"
+
+  - name: service_crashing
+    severity: P2
+    fields: [title, body]
+    any:
+      - "is crashing"
+
+  - name: slow_performance
+    severity: P3
+    fields: [title, body]
+    any:
+      - "slow to load"
+
+  - name: images_not_displaying
+    severity: P3
+    fields: [title, body]
+    any:
+      - "images not displaying"
+
+  - name: password_reset_delay
+    severity: P4
+    fields: [title, body]
+    any:
+      - "password reset email delayed"
+
+  - name: profile_picture_stale
+    severity: P4
+    fields: [title, body]
+    any:
+      - "profile picture not updating"
+
+  - name: typo_report
+    severity: P4
+    fields: [title, body]
+    any:
+      - "typo on"
+
+  - name: feature_request
+    severity: P4
+    fields: [title, body]
+    any:
+      - "feature request"
