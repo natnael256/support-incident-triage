@@ -11,11 +11,11 @@ def load_rules(path):
         raise SystemExit(f"No rules found in {path}")
     return rules
 
-def normlize(text):
-
+def normalize(text):
+    # Lowercase and collapse apostrophe variants so phrases match reliably.
     if not text:
         return ""
-    return text.lower().replace("\u2019", "")
+    return text.lower().replace("\u2019", "'")
 
 def classify (ticket, rules):
 
@@ -23,11 +23,10 @@ def classify (ticket, rules):
 
     for rule in rules: 
         haystack = " ".join(
-            normlize(ticket.get(field, "")) for field in rule ["fields"]
+            normalize(ticket.get(field, "")) for field in rule["fields"]
 
         )
         for phrase in rule["any"]:
-            if normlize(phrase) in haystack:
+            if normalize(phrase) in haystack:
                 return rule["severity"] , rule["name"]
     return None, None
-    
