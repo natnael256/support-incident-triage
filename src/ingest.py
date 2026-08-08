@@ -30,7 +30,8 @@ COLUMN_LIST = ", ".join(COLUMNS)
 INSERT_SQL = f"""
     INSERT INTO incidents ({COLUMN_LIST})
     VALUES %s
-    ON CONFLICT (external_id) DO UPDATE SET
+    ON CONFLICT (external_id) 
+    DO UPDATE SET
         source     = EXCLUDED.source,
         created_at = EXCLUDED.created_at,
         title      = EXCLUDED.title,
