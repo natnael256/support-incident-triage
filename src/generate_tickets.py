@@ -56,6 +56,17 @@ TICKET_TEMPLATES = {
             "orders placed in the last two hours. Orders stuck in "
             "processing.",
         ),
+
+        (
+        "{service} keeps erroring out",
+        "Every few attempts the {service} page throws an error and dumps "
+        "the session. Customers have to start over.",
+        ),
+        (
+            "Orders stuck in pending on {service}",
+            "Several orders sitting in pending for over an hour. Nothing in "
+            "the confirmation flow completes.",
+        ),
     ],
     "P3": [
         (
@@ -68,6 +79,16 @@ TICKET_TEMPLATES = {
             "Product images not displaying correctly on {service}. "
             "Occasionally fails to load thumbnails, intermittent error, "
             "not consistent.",
+        ),
+        (
+        "{service} logs users out unexpectedly",
+        "Customers report being signed out mid-session on {service}. "
+        "Happens maybe once every twenty minutes of use.",
+        ),
+        (
+            "Filter results look wrong on {service}",
+            "The filters on {service} return items that don't match the "
+            "selection. Not blocking, but confusing.",
         ),
     ],
     "P4": [
@@ -92,6 +113,13 @@ TICKET_TEMPLATES = {
             "Customer would like to request a wishlist feature on "
             "{service}. Not urgent, just a suggestion.",
         ),
+
+        (
+        "Question about upcoming maintenance window",
+        "Customer asking whether the site is down during the maintenance "
+        "window next week, or just degraded. Not an issue, just a question.",
+        ),
+
     ],
 }
 
@@ -133,6 +161,9 @@ def generate_ticket(index):
 
     title = title_template.format(service=service)
     body = body_template.format(service=service)
+
+    if random.random() < 0.6:
+        body += " " + fake.paragraph(nb_sentences = 2)
 
     created_at = random_timestamp()
     status = random.choices(STATUSES, weights=STATUS_WEIGHTS)[0]
