@@ -30,8 +30,12 @@ COLUMN_LIST = ", ".join(COLUMNS)
 INSERT_SQL = f"""
     INSERT INTO incidents ({COLUMN_LIST})
     VALUES %s
+<<<<<<< HEAD
     ON CONFLICT (external_id) 
     DO UPDATE SET
+=======
+    ON CONFLICT (external_id) DO UPDATE SET
+>>>>>>> 8546654 (Add ingest.py for loading and inserting tickets into the database)
         source     = EXCLUDED.source,
         created_at = EXCLUDED.created_at,
         title      = EXCLUDED.title,
